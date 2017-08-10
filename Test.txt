@@ -1,4 +1,4 @@
-My test Text file for CreatorCon repository.
+My test Text file for CreatorCon.
 
 Added one more line to branch
 We need to update same text to Master
